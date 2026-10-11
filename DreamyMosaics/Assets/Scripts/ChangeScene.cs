@@ -13,9 +13,9 @@ public class ChangeScene : MonoBehaviour
         SceneManager.LoadScene(newSceneName);
     }
 
-    public void StartButton() //goes to Level 1 scene
+    public void StartButton()
     {
-        SceneManager.LoadScene("Level 1");
+        SceneManager.LoadScene("PuzzleGame");
     }
 
     public void AboutButton() //goes to Information Interface scene

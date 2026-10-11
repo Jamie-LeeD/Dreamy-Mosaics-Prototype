@@ -1,0 +1,13 @@
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\bin\Release\net8.0\PuzzleGen.exe
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\bin\Release\net8.0\PuzzleGen.deps.json
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\bin\Release\net8.0\PuzzleGen.runtimeconfig.json
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\bin\Release\net8.0\PuzzleGen.dll
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\bin\Release\net8.0\PuzzleGen.pdb
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\PuzzleGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\PuzzleGen.csproj.CoreCompileInputs.cache
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\PuzzleGen.sourcelink.json
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\PuzzleGen.dll
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\refint\PuzzleGen.dll
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\PuzzleGen.pdb
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\PuzzleGen.genruntimeconfig.cache
+C:\Users\jamdl\OneDrive\Documents\GitHubProjects\Dreamy-Mosaics-Prototype\tools\PuzzleGen\obj\Release\net8.0\ref\PuzzleGen.dll

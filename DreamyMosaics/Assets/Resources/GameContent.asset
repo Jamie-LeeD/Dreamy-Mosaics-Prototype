@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c4e1a9b2d6f4e0a8b3c5d7e9f102346, type: 3}
+  m_Name: GameContent
+  m_EditorClassIdentifier: 
+  music: {fileID: 8300000, guid: 97a3355649e9f1c4faf93f28eb2d3220, type: 3}
+  button: {fileID: 8300000, guid: c5a50f49a244b754c95c1b6526d47f4e, type: 3}
+  exit: {fileID: 8300000, guid: d602e9e78becac542a03db904f44d199, type: 3}
+  wrong: {fileID: 8300000, guid: cbf4dbae4b494ac46bb3526fae344ae8, type: 3}
+  right: {fileID: 8300000, guid: e2b48b3fcba206e489b353de257e5576, type: 3}
+  menuBackground: {fileID: 4846384686288659252, guid: 2e1c07e349bc20d4cb7c149a4f6f46ea, type: 3}
+  playBackground: {fileID: -4583418227063629433, guid: 549b2a05b6013fc48a396f9ce5ef6ce9, type: 3}
+  buttonFace: {fileID: 2254099851254813550, guid: db4ae75232d0c7b4a99214e23418cf2c, type: 3}
+  pauseButton: {fileID: -574321081968820458, guid: da07f49a3f5061d41beadf0cb15e9d35, type: 3}
+  resetButton: {fileID: 4089925427954713793, guid: 64f48ea99c681d6499a52251b23793d1, type: 3}
+  menuButton: {fileID: -2262681680572482698, guid: ff875d0eb8e38c24eae855f3ebefa501, type: 3}
+  nextButton: {fileID: -4685137439088066588, guid: 387c2de2a16ea97439af1d0f5f9549b1, type: 3}
+  backButton: {fileID: -877499482879928251, guid: 1cf44bd67caa5214ca06e25c93132d45, type: 3}
+  resumeButton: {fileID: -3690285244361767411, guid: 3ab471a6ad82c154592c29a87ad3d4b0, type: 3}
+  quitButton: {fileID: 7710002359251132797, guid: 2b5357285b9d844499b1694ed2bb4a06, type: 3}

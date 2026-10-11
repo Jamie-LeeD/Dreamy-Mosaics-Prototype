@@ -1,4 +1,3 @@
-using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -55,7 +54,7 @@ public class GameManager : MonoBehaviour
         }
         if(destroyedTile == 925)
         {
-            SceneManager.LoadScene(3);
+            SceneManager.LoadScene("Win Condition");
         }
     }
 
@@ -78,6 +77,6 @@ public class GameManager : MonoBehaviour
 
     public void Dead()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("Lose Condition");
     }
 }
